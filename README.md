@@ -1,4 +1,4 @@
-# Hexadecimal Keypad Scanner Verilog Project
+# Hexadecimal_Keypad_Scanner Verilog Project
 
 This Verilog project implements a Hexadecimal Keypad Scanner. It is designed to scan a 4x4 keypad and detect the pressed keys, which are then converted to their corresponding hexadecimal values.
 
