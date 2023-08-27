@@ -24,7 +24,7 @@ The project consists of the following components:
 - `Synch`: Module fort synchronizer.
 
 
-## Simulation
+### Simulation
 
 1. Open the simulation tool provided by your Verilog IDE.
 2. Add the project files and the testbench.
